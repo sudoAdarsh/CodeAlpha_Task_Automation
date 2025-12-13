@@ -41,4 +41,4 @@ class Format():
 
             markdown_content = f"# {name} \n* **IMDb Rating:** {ratings}/10 \n* **Type:** Movie \n* **Description:** {description}\n"
             with open("test.md", "a") as file:
-                file.write(markdown_content)
+                file.write(markdown_content) 
