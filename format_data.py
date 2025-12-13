@@ -42,3 +42,16 @@ class Format():
             markdown_content = f"# {name} \n* **IMDb Rating:** {ratings}/10 \n* **Type:** Movie \n* **Description:** {description}\n"
             with open("test.md", "a") as file:
                 file.write(markdown_content) 
+    
+    def format_indian_series(self):
+        with open("test.md", "w") as file:
+            pass
+
+        for i in range(len(self.names)):
+            name = self.names[i].text
+            description = self.descriptions[i].text
+            ratings = self.details[i].text
+
+            markdown_content = f"# {name} \n* **IMDb Rating:** {ratings}/10 \n* **Type:** Series \n* **Description:** {description}\n"
+            with open("test.md", "a") as file:
+                file.write(markdown_content) 

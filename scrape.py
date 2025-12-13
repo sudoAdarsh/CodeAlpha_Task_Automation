@@ -30,3 +30,11 @@ class ScrapeData():
         descriptions = soup.find_all(name="div", class_="ipc-html-content-inner-div")[1:]
 
         return names, descriptions, ratings
+
+    def indian_series(self):
+        soup = BeautifulSoup(self.response, "html.parser")
+        names = soup.find_all(name="h3", class_="ipc-title__text")[0:10]
+        ratings = soup.find_all(name="span", class_="ipc-rating-star--rating")
+        descriptions = soup.find_all(name="div", class_="ipc-html-content-inner-div")[1:]
+
+        return names, descriptions, ratings

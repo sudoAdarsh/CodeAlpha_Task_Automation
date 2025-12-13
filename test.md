@@ -1,40 +1,40 @@
-# 1. Saiyaara 
-* **IMDb Rating:** 6.3/10 
-* **Type:** Movie 
-* **Description:** Vaani and Krish will have to navigate life, their problems, their insecurities to hopefully realise that only love can be the answer to everything.
-# 2. Mahavatar Narsimha 
+# 1. The Ba***ds of Bollywood 
+* **IMDb Rating:** 7.6/10 
+* **Type:** Series 
+* **Description:** An entertaining ride through the adventures of an ambitious outsider navigating the glitzy yet tricky world of Bollywood, with self-aware humor, cameos, and larger-than-life characters for a tongue-in-cheek take on Indian cinema.
+# 2. Black Warrant 
+* **IMDb Rating:** 7.9/10 
+* **Type:** Series 
+* **Description:** A newly appointed jailer at Tihar Prison confronts widespread corruption and injustice within its walls, forcing him to choose between maintaining the status quo or fighting for reform.
+# 3. Paatal Lok 
+* **IMDb Rating:** 8.2/10 
+* **Type:** Series 
+* **Description:** Inspector Hathi Ram Chaudhary, the haggard, unlikely hero, investigates a high-profile murder case that leads him to remote corners of North-East India, where he battles powerful forces and personal tragedies in his pursuit of truth.
+# 4. Panchayat 
+* **IMDb Rating:** 9.0/10 
+* **Type:** Series 
+* **Description:** A comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of a Panchayat office in a remote village of Uttar Pradesh.
+# 5. Mandala Murders 
+* **IMDb Rating:** 6.5/10 
+* **Type:** Series 
+* **Description:** In a quaint mysterious town of Charandaspur, where fate, myth, and murder entwine, detectives Rea Thomas and Vikram Singh unravel a chilling conspiracy of ritualistic killings tied to a centuries-old secret society.
+# 6. Khauf 
+* **IMDb Rating:** 7.4/10 
+* **Type:** Series 
+* **Description:** A young woman's hostel room in Delhi hides a history of violence. Haunted by her past, she battles inexplicable forces within the room's confines and beyond.
+# 7. Special OPS 
 * **IMDb Rating:** 8.6/10 
-* **Type:** Movie 
-* **Description:** The demon Hiranyakashyap seeks revenge on Vishnu and declares himself a god. His son Prahlad remains devoted to Vishnu. Vishnu manifests as Narsimha to defeat the demon and restore balance.
-# 3. Chhaava 
-* **IMDb Rating:** 7.3/10 
-* **Type:** Movie 
-* **Description:** After the death of his father, warrior-king Sambhaji Maharaj battles Mughal forces led by Aurangzeb to keep the Maratha Empire alive.
-# 4. Kantara: A Legend - Chapter 1 
-* **IMDb Rating:** 8.3/10 
-* **Type:** Movie 
-* **Description:** Exploring the origins of Kaadubettu Shiva during the Kadamba dynasty era, it delves into the untamed wilderness and forgotten lore surrounding his past.
-# 5. Coolie 
-* **IMDb Rating:** 6.0/10 
-* **Type:** Movie 
-* **Description:** Delves into a man's relentless quest for vengeance since youth, driven by righting past wrongs, shaping his very existence. Viewers experience the complexities of his tumultuous vendetta journey.
-# 6. Dragon 
-* **IMDb Rating:** 7.8/10 
-* **Type:** Movie 
-* **Description:** After a devastating breakup, troubled student Ragavan abandons his studies and enters the dangerous world of financial fraud, pursuing wealth and power while becoming entangled in escalating deception.
-# 7. Sitaare Zameen Par 
-* **IMDb Rating:** 6.9/10 
-* **Type:** Movie 
-* **Description:** After a DUI, an arrogant basketball coach must train Neurodivergent adults for community service. His initial prejudice fades as his players show him a new perspective on life.
-# 8. Deva 
-* **IMDb Rating:** 6.6/10 
-* **Type:** Movie 
-* **Description:** A brilliant yet rebellious police officer uncovers a web of deceit and betrayal while investigating a high-profile case.
-# 9. Raid 2 
-* **IMDb Rating:** 6.6/10 
-* **Type:** Movie 
-* **Description:** In 1989 Rajasthan, IPS officer Patnaik raids a palace but fails. After requesting a bribe, he's transferred to Bhoj, where he investigates Dada Bhai, a respected local figure. Suspended after a failed raid, he uncovers hidden truths.
-# 10. Lokah Chapter One: Chandra 
+* **Type:** Series 
+* **Description:** A relentless hero and a terror mastermind are engaged in a high-stakes race against time, as Himmat Singh and his team embark on a mission to end a 19-year-long manhunt.
+# 8. Khakee: The Bengal Chapter 
+* **IMDb Rating:** 7.5/10 
+* **Type:** Series 
+* **Description:** After a respected officer's death in early 2000s Bengal, IPS Arjun Maitra confronts powerful gangsters and corrupt politicians in his mission to bring law and order to a region gripped by crime and chaos.
+# 9. The Family Man 
+* **IMDb Rating:** 8.7/10 
+* **Type:** Series 
+* **Description:** A working man from the National Investigation Agency tries to protect the nation from terrorism, but he also needs to keep his family safe from his secret job.
+# 10. Criminal Justice: A Family Matter 
 * **IMDb Rating:** 7.7/10 
-* **Type:** Movie 
-* **Description:** Chandra, a young woman, arrives in Bengaluru with a mission. Her neighbor, Sunny, sets out to unravel the mystery about her and they are on an unexpected adventure ride together.
+* **Type:** Series 
+* **Description:** Attorney Madhav Mishra represents Raj Nagpal, discovered with murdered nurse Roshni Saluja after his child's party. As the trial unfolds, hidden facts emerge, questioning identities.

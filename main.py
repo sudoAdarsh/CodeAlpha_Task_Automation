@@ -62,6 +62,15 @@ while True:
         break
     elif choice == '4':
         url = indian_best_series
+        print("Fetching url...")
+        response = requests.get(url, headers=headers)
+        print("Scraping data...")
+        sc = ScrapeData(response)
+        names, descriptions, ratings = sc.indian_series()
+        print("Formatting data...")
+        f = Format(names, descriptions, ratings)
+        f.format_indian_series()
+        print("Done!")
         break
     else:
         print("Invalid input! Please make sure you type a number corresponding to the option.")
