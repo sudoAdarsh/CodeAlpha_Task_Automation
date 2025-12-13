@@ -42,9 +42,23 @@ while True:
         response = requests.get(url, headers=headers)
         print("Scraping data...")
         sc = ScrapeData(response)
+        names, descriptions, details = sc.global_movies()
+        print("Formatting data...")
+        f = Format(names, descriptions, details)
+        f.format_series()
+        print("Done!")
         break
     elif choice == '3':
         url = indian_best_movies
+        print("Fetching url...")
+        response = requests.get(url, headers=headers)
+        print("Scraping data...")
+        sc = ScrapeData(response)
+        names, descriptions, ratings = sc.indian_movies()
+        print("Formatting data...")
+        f = Format(names, descriptions, ratings)
+        f.format_indian_movies()
+        print("Done!")
         break
     elif choice == '4':
         url = indian_best_series
