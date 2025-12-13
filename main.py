@@ -1,5 +1,6 @@
 import requests
 from scrape import ScrapeData
+from format_data import Format
 
 headers = {
     "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:145.0) Gecko/20100101 Firefox/145.0",
@@ -25,12 +26,22 @@ while True:
 
     if choice == '1':
         url = global_best_movies
+        print("Fetching url...")
         response = requests.get(url, headers=headers)
+        print("Scraping data...")
         sc = ScrapeData(response)
-        sc.global_movies()
+        names, descriptions, details = sc.global_movies()
+        print("Formatting data...")
+        f = Format(names, descriptions, details)
+        f.format_movies()
+        print("Done!")
         break
     elif choice == '2':
         url = global_best_series
+        print("Fetching url...")
+        response = requests.get(url, headers=headers)
+        print("Scraping data...")
+        sc = ScrapeData(response)
         break
     elif choice == '3':
         url = indian_best_movies

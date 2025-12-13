@@ -20,5 +20,5 @@ class ScrapeData():
             end += 4
             detail = [i.text.replace(u'\xa0', u' ') for i in current_details]
             details.append(detail)
-            
+
         return names, descriptions, details
