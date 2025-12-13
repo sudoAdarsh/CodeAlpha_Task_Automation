@@ -1,6 +1,10 @@
-from bs4 import BeautifulSoup
 import requests
+from scrape import ScrapeData
 
+headers = {
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:145.0) Gecko/20100101 Firefox/145.0",
+    "Accept-Language": "en-US,en;q=0.5"
+}
 
 global_best_movies = "https://www.imdb.com/best-of/most-popular-movies-2025/"
 
@@ -21,6 +25,9 @@ while True:
 
     if choice == '1':
         url = global_best_movies
+        response = requests.get(url, headers=headers)
+        sc = ScrapeData(response)
+        sc.global_movies()
         break
     elif choice == '2':
         url = global_best_series
@@ -33,3 +40,9 @@ while True:
         break
     else:
         print("Invalid input! Please make sure you type a number corresponding to the option.")
+
+response = requests.get(url)
+
+data = response.text
+
+soup = (data, "html.parser")
